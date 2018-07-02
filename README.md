@@ -43,7 +43,9 @@ fasttext_sg.most_similar("wizard")  # FastText with Skip-Gram
 
 ## Useful Tutorials
 ### Siraj Raval Word2Vec Live tutorial
+
 <p> https://youtu.be/pY9EwZ02sXU </p>
 <p> https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE </p>
+
 ### Chris McCormick Skip-Gram for theory
-<p>http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/</p>
+<p> http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/</p>
