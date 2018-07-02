@@ -6,9 +6,9 @@
 http://www.glozman.com/textpages.html
 
 ## Libraries
-<a href="https://radimrehurek.com/gensim/"> gensim </a>
-<a href="https://www.nltk.org/"> NLTK </a>
-<a href="http://scikit-learn.org/"> scikit-learn </a>
+<p><a href="https://radimrehurek.com/gensim/"> gensim </a></p>
+<p><a href="https://www.nltk.org/"> NLTK </a></p>
+<p><a href="http://scikit-learn.org/"> scikit-learn </a></p>
 
 ## Demo
 ### semantic similarities
