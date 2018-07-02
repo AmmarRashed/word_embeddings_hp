@@ -39,7 +39,7 @@ fasttext_sg.most_similar("wizard")  # FastText with Skip-Gram
 ```
 ### Word2Vec (Skip-Gram): 2-D plot of semantic similarities
 <p> t-SNE used for dimensionality reduction </p>
-<img src="https://preview.ibb.co/d4hiKy/download.png">
+<img src="https://github.com/AmmarRashed/word_embeddings_hp/blob/master/misc/tsne_plot.png?raw=true">
 
 ## Useful Tutorials
 ### Siraj Raval Word2Vec Live tutorial
