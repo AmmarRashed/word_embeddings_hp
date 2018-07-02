@@ -1,6 +1,6 @@
 # word_embeddings_hp
 Training and exploring Word2Vec and FastText on Harry Potter books corpus
-<img src="https://vignette.wikia.nocookie.net/harrypotter/images/f/fd/Hallows.svg/revision/latest?cb=20100212055050">
+<img src="https://vignette.wikia.nocookie.net/harrypotter/images/f/fd/Hallows.svg/revision/latest?cb=20100212055050" width=100>
 
 ## Data
 http://www.glozman.com/textpages.html
@@ -46,4 +46,4 @@ fasttext_sg.most_similar("wizard")  # FastText with Skip-Gram
 <p> https://youtu.be/pY9EwZ02sXU </p>
 <p> https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE </p>
 ### Chris McCormick Skip-Gram for theory
-http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+<p>http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/</p>
