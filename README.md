@@ -1,6 +1,6 @@
 # word_embeddings_hp
-Training and exploring Word2Vec and FastText on Harry Potter books corpus
-<img src="https://vignette.wikia.nocookie.net/harrypotter/images/f/fd/Hallows.svg/revision/latest?cb=20100212055050" width=100>
+### Training and exploring Word2Vec and FastText on Harry Potter books corpus
+<p><img src="https://vignette.wikia.nocookie.net/harrypotter/images/f/fd/Hallows.svg/revision/latest?cb=20100212055050" width=250></p>
 
 ## Data
 http://www.glozman.com/textpages.html
