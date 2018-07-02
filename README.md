@@ -6,8 +6,8 @@ http://www.glozman.com/textpages.html
 
 ## Useful Tutorials
 ### Siraj Raval Word2Vec Live tutorial
-https://youtu.be/pY9EwZ02sXU
-https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE
+<p> https://youtu.be/pY9EwZ02sXU </p>
+<p> https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE </p>
 
 ### Chris McCormick Skip-Gram for theory
 http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
