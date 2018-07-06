@@ -6,10 +6,10 @@
 http://www.glozman.com/textpages.html
 
 ## Libraries
-<p><a href="https://radimrehurek.com/gensim/"> gensim </a></p>
-<p><a href="https://www.nltk.org/"> NLTK </a></p>
-<p><a href="http://scikit-learn.org/"> scikit-learn </a></p>
-<p><a href="https://pythonhosted.org/joblib/"> joblib </a></p>
+- <a href="https://radimrehurek.com/gensim/"> gensim </a>
+- <a href="https://www.nltk.org/"> NLTK </a>
+- <a href="https://pythonhosted.org/joblib/"> joblib </a>
+- <a href="http://scikit-learn.org/"> scikit-learn </a>
 
 ## Demo
 ### semantic similarities
