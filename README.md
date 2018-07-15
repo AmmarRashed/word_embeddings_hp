@@ -5,7 +5,8 @@
 ## Data
 http://www.glozman.com/textpages.html
 
-## Libraries
+## Dependancies
+**Tested on Python 3.5**
 - <a href="https://radimrehurek.com/gensim/"> gensim </a>
 - <a href="https://www.nltk.org/"> NLTK </a>
 - <a href="https://pythonhosted.org/joblib/"> joblib </a>
