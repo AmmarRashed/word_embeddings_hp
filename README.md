@@ -10,6 +10,8 @@ http://www.glozman.com/textpages.html
 - <a href="https://www.nltk.org/"> NLTK </a>
 - <a href="https://pythonhosted.org/joblib/"> joblib </a>
 - <a href="http://scikit-learn.org/"> scikit-learn </a>
+- <a href="https://www.scipy.org/"> SciPy</a>
+- <a href="https://matplotlib.org/"> Matplotlib</a>
 
 ## Demo
 ### semantic similarities
