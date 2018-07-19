@@ -5,10 +5,14 @@
 ## Data
 http://www.glozman.com/textpages.html
 
-## Libraries
-<p><a href="https://radimrehurek.com/gensim/"> gensim </a></p>
-<p><a href="https://www.nltk.org/"> NLTK </a></p>
-<p><a href="http://scikit-learn.org/"> scikit-learn </a></p>
+## Dependancies
+**Tested on Python 3.5**
+- <a href="https://radimrehurek.com/gensim/"> gensim </a>
+- <a href="https://www.nltk.org/"> NLTK </a>
+- <a href="https://pythonhosted.org/joblib/"> joblib </a>
+- <a href="http://scikit-learn.org/"> scikit-learn </a>
+- <a href="https://www.scipy.org/"> SciPy</a>
+- <a href="https://matplotlib.org/"> Matplotlib</a>
 
 ## Demo
 ### semantic similarities
